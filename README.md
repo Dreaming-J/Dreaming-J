@@ -13,5 +13,29 @@ I'm a student aiming to be a backend developer
 </p>
 
 
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+</p>
 
-<!--참고: https://blog.cowkite.com/blog/2102241544/-->
+
+<div align="center">
+
+![Dreaming-J's github stats](https://github-readme-stats.vercel.app/api?username=Dreaming-J&show_icons=true)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjjong321)
+
+</div>
+
+
+<!--
+[참고 자료]
+https://blog.cowkite.com/blog/2102241544/
+https://github.com/PgmJun/PgmJun/blob/master/README.md
+-->
