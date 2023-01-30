@@ -37,5 +37,5 @@ I'm a student aiming to be a backend developer
 <!--
 [참고 자료]
 https://blog.cowkite.com/blog/2102241544/
-https://github.com/PgmJun/PgmJun/blob/master/README.md
+https://pgmjun.tistory.com/21
 -->
